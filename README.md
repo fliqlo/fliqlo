@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **computer basics**
 
-- 📫 How to reach me **flicko@tuta.io**
+<!-- - 📫 How to reach me **flicko@tuta.io** -->
 
 - ⚡ Fun fact **I think about her.**
 
